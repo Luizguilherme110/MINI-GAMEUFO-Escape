@@ -14,4 +14,4 @@ Mini game em HTML, CSS e JavaScript inspirado no jogo do dinossauro, mas com um 
 - O score aumenta conforme você sobrevive.
 
 ## Executar localmente
-Basta abrir o arquivo `index.html` no navegador.
+Basta abrir o arquivo `index.html` no navegador. Ou acesse: https://luizguilherme110.github.io/MINI-GAMEUFO-Escape/ 
